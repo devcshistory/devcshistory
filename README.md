@@ -1,16 +1,22 @@
 # Clark
+
+## AI, Backend & Mobile Developer
+
+**ASP.NET Core | Spring Boot | Python | LLM/RAG | AWS/Azure | Kotlin & Swift**
+
 ## What I specialize in
-With a vast repertoire of skills and experience, I specialize in:
-- **Web & Mobile App with AI Development**: Crafting responsive, user-centric applications.
-- **Backend(Python, ASP.NET, Node) Development**: Building and optimizing scalable backend infrastructures for seamless data flow.
-- **Ruby**: Developing versatile scripts and applications with Ruby's comprehensive libraries.
-- **Web3, Solidity**: Designing and implementing secure digital assets using blockchain technology.
-- **DevOps**: Streamlining and automating operational processes, ensuring rapid, reliable, and consistent deployments.
+
+With extensive experience building scalable software and AI-powered applications, I specialize in:
+
+* **AI & LLM Development**: Building intelligent applications using LLMs, RAG pipelines, vector databases, embeddings, and AI agents.
+* **Backend Development**: Designing scalable APIs, microservices, and distributed systems using ASP.NET Core, Spring Boot, and Python.
+* **RAG & AI Integration**: Connecting LLMs with enterprise data, documents, databases, and external APIs to build reliable AI-powered systems.
+* **Cloud & DevOps**: Building, deploying, and operating cloud-native applications on AWS and Azure using Docker, Kubernetes, CI/CD, and infrastructure automation.
+* **Android Development**: Developing modern native Android applications with Kotlin and cloud-connected backend services.
+* **iOS Development**: Building native iOS applications with Swift, API integrations, authentication, and modern mobile architectures.
 
 ## Technologies & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,dart,flutter,ai,net,python,django,laravel,nodejs,golang,ruby&theme=light" alt="Technology Stack"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,fastapi,aws,azure,docker,kubernetes,terraform,kotlin,swift,postgres,redis,git,github&theme=light" alt="Technology Stack"/>
 </p>
-
-
-
