@@ -1,5 +1,3 @@
-# Clark
-
 ## AI, Backend & Mobile Developer
 
 **ASP.NET Core | Spring Boot | Python | LLM/RAG | AWS/Azure | Kotlin & Swift**
